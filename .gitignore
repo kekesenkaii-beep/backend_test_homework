@@ -1,0 +1,3 @@
+*.log #ignore all log files
+!main.log #but do not ignore main.log
+
